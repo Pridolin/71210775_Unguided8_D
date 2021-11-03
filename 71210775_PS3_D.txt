@@ -1,0 +1,6 @@
+rumus mencari faktorial adalah :
+n! = n*(n-1)...*1
+If n sama dengan 0 dan lebih dari 0
+	maka n dikalikan dengan n yang dikurangi hingga mendapatkan hasil 1
+else
+	"ERROR"
